@@ -34,7 +34,6 @@ Download the CSV and place it in this repo's root folder as `heart_disease.csv` 
 
 - Load and inspect the dataset
 - Identify target (`heart_disease`) and feature columns
-- Convert any categorical columns to numbers with `pd.get_dummies()`
 - Split data into train/test sets (80/20)
 - Train a Logistic Regression classifier
 - Evaluate using accuracy, precision, recall, and F1 score
